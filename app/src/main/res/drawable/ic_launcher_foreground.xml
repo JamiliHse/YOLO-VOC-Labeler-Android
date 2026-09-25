@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bounding Box Corner Brackets (Accent Cyan #38BDF8) -->
+    <!-- Top-Left Bracket -->
+    <path
+        android:pathData="M 30,42 L 30,30 L 42,30"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Top-Right Bracket -->
+    <path
+        android:pathData="M 66,30 L 78,30 L 78,42"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-Left Bracket -->
+    <path
+        android:pathData="M 30,66 L 30,78 L 42,78"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-Right Bracket -->
+    <path
+        android:pathData="M 66,78 L 78,78 L 78,66"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Dashed Bounding Box Border -->
+    <path
+        android:pathData="M 30,30 L 78,30 L 78,78 L 30,78 Z"
+        android:strokeColor="#8038BDF8"
+        android:strokeWidth="1.2"
+        android:fillColor="#1538BDF8" />
+
+    <!-- Class Label Tag on Top Left -->
+    <path
+        android:pathData="M 30,23 L 52,23 A 2,2 0 0 1 54,25 L 54,29 A 1,1 0 0 1 53,30 L 30,30 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Inner Label Text Line (White) -->
+    <path
+        android:pathData="M 35,26.5 L 49,26.5"
+        android:strokeColor="#0F172A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Center Object Silhouette (Car / Target Symbol) -->
+    <path
+        android:pathData="M 46,50 L 62,50 L 66,57 L 69,57 C 70,57 71,58 71,59 L 71,65 C 71,66 70,66 69,66 L 68,66 C 68,64 66.5,62.5 64.5,62.5 C 62.5,62.5 61,64 61,66 L 47,66 C 47,64 45.5,62.5 43.5,62.5 C 41.5,62.5 40,64 40,66 L 39,66 C 38,66 37,66 37,65 L 37,59 C 37,58 38,57 39,57 L 42,57 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Wheel Circles -->
+    <path
+        android:pathData="M 43.5,66 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#F8FAFC" />
+    <path
+        android:pathData="M 64.5,66 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#F8FAFC" />
+
+    <!-- 8 Resize Anchor Points (Amber #F59E0B) -->
+    <path
+        android:pathData="M 30,30 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 78,30 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 30,78 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 78,78 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 54,30 m -1.8,0 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 54,78 m -1.8,0 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 30,54 m -1.8,0 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 78,54 m -1.8,0 a 1.8,1.8 0 1,0 3.6,0 a 1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#F59E0B" />
+</vector>

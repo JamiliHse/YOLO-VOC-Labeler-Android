@@ -1,0 +1,6 @@
+{
+  "name": "LabelFlow",
+  "description": "Professional image dataset annotation tool for YOLO and Pascal VOC object detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
